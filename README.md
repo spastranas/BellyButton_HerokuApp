@@ -3,12 +3,12 @@ The purpose of this excercise is not to build a beatiful website, but to demonst
 flask as the framework and Heroku to deploy it. <br>
 <br>
 
-The data set contains inforamtion about bellybutton biodiversity, it investigates the microbes inhabiting  them and the factors that might influence the life in it.
+The data set contains information about bellybutton biodiversity, it investigates the microbes inhabiting  them and the factors that might influence the life in it.
 <br>
 <br>
 
 
-Our dataset contains 60 different samples (from 60 different people) and displays the top bacteria found in each sample, a scatterplot of the total microbs per bacteria class as well as basic data regarding the sample donor.
+Our dataset contains 60 different samples (from 60 different people) and displays the top bacteria found in each sample, a scatterplot of the total microbs per bacteria class and basic data regarding the sample donor.
 
 <br>
 
